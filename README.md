@@ -11,8 +11,8 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Blue.jpg" alt="Result Portal Dashboard" width="350"/>
-  <img src="mix.jpg" alt="Result Page" width="350"/>
+  <img src="StudentPor.jpg" alt="Result Portal Dashboard" width="350"/>
+  <img src="ResultPor.jpg" alt="Result Page" width="350"/>
 </p>
 
 ---
